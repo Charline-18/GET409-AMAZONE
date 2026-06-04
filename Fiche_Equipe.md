@@ -30,11 +30,6 @@
 ### Problème observé
 Les populations sénégalaises ont une réelle difficulté à accéder aux soins notamment dans les zones reculées ou font face à un manque d'effectifs des médecins ou encore un accès limité à l'internet.
 
-Notre réponse
-Comment pourrions-nous permettre aux patients d'avoir accès à un diagnostic sans se déplacer et à etre pris en charge dans les meilleurs délai par une alternive aux médecins?
-
-
-
 ### Énoncé HMW
 
 > **Comment pourrions-nous** permettre aux patients d'avoir accès à un diagnostic sans se déplacer et à etre pris en charge dans les meilleurs délai par une alternive aux médecins?
