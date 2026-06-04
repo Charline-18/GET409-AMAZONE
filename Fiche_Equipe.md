@@ -21,7 +21,7 @@
 | Ndeye Khadidiatou | HAIDARA | Chef de Produit (PM) | [@khadija257](https://github.com/khadija257) | ndeyekhadidiatouhaidara@gmail.com |
 | Aichatou | BARAKAT | Master Prompt Engineer | [@charline-18](https://github.com/charline-18) | barakataichatou@gmail.com |
 | Aissatou sewo | DIALLO | Dev UI (No-Code) | [@sewo04](https://github.com/sewo04) | sewo2303@gmail.com |
-| Kombo | GAUTHIER | Responsable Impact | [@adamag244](https://github.com/adamag244) | gueyeadamapro@gmail.com |
+| Adama | GUEYE | Responsable Impact | [@adamag244](https://github.com/adamag244) | gueyeadamapro@gmail.com |
 
 ---
 
