@@ -12,6 +12,7 @@
 
 ---
 
+## FORMAT DE SORTIE STRICT
 ## 1. Ce qu'il pense et ressent
 
 -Comment ne pas perdre l'un des membres de sa famille en cours de route
