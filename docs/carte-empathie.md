@@ -7,8 +7,8 @@
 | **Prénom & âge** | Alpha, 42 ans |
 | **Profession** | Agriculteur |
 | **Localisation** | Bakakak, Bambey, Sénégal |
-| **Problème** | Il ne sait jamais quand son bus DDD arrive et rate souvent des réunions importantes |
-| **Équipement digital** | Smartphone Android entrée de gamme — connexion 3G intermittente |
+| **Problème** | Il doit parcourir 20Km pour atteindre un hopital et bénéficier de soins |
+| **Équipement digital** | Téléphone Android — faible accès à internet |
 
 ---
 
