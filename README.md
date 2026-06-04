@@ -72,7 +72,7 @@ Tu es un facilitateur en Design Thinking.
 Voici les observations cles de notre interview avec
 Alpha, agriculteur vivant à Bambey :
 
-Observation 1 : Les patients tombent le plus souvent malade durant l'hivernage surtout dans les zones reculées
+Observation 1 : Les membres de sa famille tombent le plus souvent malade durant l'hivernage surtout dans les zones reculées
 Observation 2 : Les postes de santé à proximité manquent d'effectifs ou d'équipements nécessaires aux premiers soins 
 Observation 3 : Ils ont du mal à trouver un moyen de transport rapide
 
