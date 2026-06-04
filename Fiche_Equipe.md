@@ -37,7 +37,7 @@ Comment pourrions-nous permettre aux patients d'avoir accès à un diagnostic sa
 
 ### Énoncé HMW
 
-> **Comment pourrions-nous** permettre aux usagers des bus DDD de Dakar de connaître en temps réel la position et l'heure d'arrivée de leur bus, **afin de** réduire les attentes imprévisibles et leur redonner le contrôle de leurs trajets ?
+> **Comment pourrions-nous** 
 
 ---
 
