@@ -72,7 +72,7 @@ Tu es un facilitateur en Design Thinking.
 Voici les observations cles de notre interview avec
 Alpha, agriculteur vivant à Bambey :
 
-Observation 1 : Les membres de sa famille tombent le plus souvent malade durant l'hivernage surtout dans les zones reculées
+Observation 1 : Les membres de sa famille tombent le plus souvent malade durant l'hivernage 
 Observation 2 : Les postes de santé à proximité manquent d'effectifs ou d'équipements nécessaires aux premiers soins 
 Observation 3 : Ils ont du mal à trouver un moyen de transport rapide
 
@@ -100,7 +100,7 @@ pour des projets d'innovation sociale en Afrique.
 - Prenom, age, profession : Alpha, 30ans, agriculteur
 - Localisation : Bambey,Bakakak, SENEGAL
 - Probleme principal : Le manque de moyen de transport rapide. 
-- Equipement digital : Téléphone , manque de réseau...
+- Equipement digital : Téléphone Android , manque de réseau...
 - Revenus approximatifs : 100.000-250.000
 - Contexte familial : Famille nombreuse à sa charge
 
