@@ -111,33 +111,3 @@ pour des projets d'innovation sociale en Afrique.
 
 ## TACHE
 Genere la Carte d'Empathie complete.
-
-## FORMAT DE SORTIE STRICT
-
-### 1. Ce qu'il/elle PENSE ET RESSENT
-- Comment ne pas perdre l'un des membres de sa famille en cours de route
-- Avoir accès aux soins à proximité 
-- [Aspiration secrete]
-
-### 2. Ce qu'il/elle VOIT
-- 20Km
-- Une charette en guise de transport
-
-### 3. Ce qu'il/elle ENTEND
-- Envoyer le malade chez un vieux guerisseur du village
-- Faire de l'automédication
-
-### 4. Ce qu'il/elle DIT ET FAIT
-- Il panique
-- Je cours chercher de l'aide
-
-### 5. FRUSTRATIONS (Pains)
-- Ne pas savoir quoi faire
-- Trouver un moyen de transport
-
-### 6. ASPIRATIONS (Gains)
-- Bénéficier d'une aide soignante le plus rapidement possible
-- Assistance lors des urgences
-'''
-
-
