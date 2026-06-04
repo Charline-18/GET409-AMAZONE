@@ -14,7 +14,7 @@ Les populations sénégalaises ont une réelle difficulté à accéder aux soins
 
 | Prénom   | Nom     | Rôle                   | GitHub       |
 | -------- | ------- | ---------------------- | ------------ |
-| Khadija  | Aidara  | Chef de Produit        | @Khadija257  |
+| Ndeye Khadidiatou  | Aidara  | Chef de Produit        | @Khadija257  |
 | Aichatou | Barakat | Master Prompt Engineer | @Charline-18 |
 | Aissatou | Diallo  | Dev UI                 | @sewo04      |
 | Adama    | Gueye   | Responsable impact     | @AdamaG244   |
