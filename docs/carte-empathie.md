@@ -23,6 +23,7 @@
 ## 2. Ce qu'il voit
 
 - Il voit qu'il doit parcourir 20Km
+  
 - Une charette en guise de transport
 
 ---
@@ -30,6 +31,7 @@
 ## 3. Ce qu'il entend
 
 -"Envoyer le malade chez un vieux guerisseur du village"
+
 -"Faire de l'automédication"
 
 ---
@@ -38,6 +40,7 @@
 
 **Comportements observés**
 - Il panique
+- 
 - Il est frustré
 
 **Citation directe**
@@ -48,10 +51,12 @@
 ## 5. Frustrations (Pains)
 
 -Ne pas savoir quoi faire
+
 -Trouver un moyen de transport
     
 ---
 
 ## 6. Aspirations (Gains)
   -Bénéficier d'une aide soignante le plus rapidement possible
+  
   -Assistance lors des urgences
