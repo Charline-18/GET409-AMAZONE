@@ -40,4 +40,4 @@ Les populations sénégalaises ont une réelle difficulté à accéder aux soins
 - [x] Fiche équipe soumise sur e-Academy
 - [x] Énoncé HMW validé
 - [x] Carte d'empathie déposée sur e-Academy
-- [x] Dépôt GitHub `GET409-BusTrackDakar` — README.md + tous les membres en collaborateurs
+- [x] Dépôt GitHub `GET409-AMAZONE` — README.md + tous les membres en collaborateurs
