@@ -111,29 +111,29 @@ Genere la Carte d'Empathie complete.
 ## FORMAT DE SORTIE STRICT
 
 ### 1. Ce qu'il/elle PENSE ET RESSENT
-- [Preoccupation profonde 1]
-- [Preoccupation profonde 2]
+- Comment ne pas perdre l'un des membres de sa famille en cours de route
+- Avoir accès aux soins à proximité 
 - [Aspiration secrete]
 
 ### 2. Ce qu'il/elle VOIT
-- [Element environnement 1]
-- [Element environnement 2]
+- 20Km
+- Une charette en guise de transport
 
 ### 3. Ce qu'il/elle ENTEND
-- [Influence sociale 1]
-- [Influence sociale 2]
+- Envoyer le malade chez un vieux guerisseur du village
+- Faire de l'automédication
 
 ### 4. Ce qu'il/elle DIT ET FAIT
-- [Comportement observable 1]
-- [Citation directe]
+- Il panique
+- Je cours chercher de l'aide
 
 ### 5. FRUSTRATIONS (Pains)
-- [Douleur principale]
-- [Obstacle majeur]
+- Ne pas savoir quoi faire
+- Trouver un moyen de transport
 
 ### 6. ASPIRATIONS (Gains)
-- [Resultat desire 1]
-- [Besoin profond]
+- Bénéficier d'une aide soignante le plus rapidement possible
+- Assistance lors des urgences
 '''
 
 
