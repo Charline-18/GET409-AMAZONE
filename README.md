@@ -22,6 +22,10 @@ Les populations sénégalaises ont une réelle difficulté à accéder aux soins
 
 ## Documentation
 
+| Document | Description |
+|---|---|
+| [📋 Fiche équipe](docs/Fiche_Equipe.md) | Identité, membres, rôles, infrastructure S1 |
+| [🗺️ Carte d'empathie](docs/carte-empathie.md) | Persona Alpha — pains, gains, insights |
 
 
 
