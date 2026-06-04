@@ -40,7 +40,7 @@
 
 **Comportements observés**
 - Il panique
-- 
+  
 - Il est frustré
 
 **Citation directe**
