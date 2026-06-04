@@ -37,8 +37,7 @@ Comment pourrions-nous permettre aux patients d'avoir accès à un diagnostic sa
 
 ### Énoncé HMW
 
-> **Comment pourrions-nous** 
-
+> **Comment pourrions-nous** permettre aux patients d'avoir accès à un diagnostic sans se déplacer et à etre pris en charge dans les meilleurs délai par une alternive aux médecins?
 ---
 
 ## Infrastructure S1
