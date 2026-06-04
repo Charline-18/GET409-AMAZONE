@@ -70,7 +70,7 @@ Format : questions numerotees, courtes, sans jargon technique.
 Tu es un facilitateur en Design Thinking.
 
 Voici les observations cles de notre interview avec
-, médecin généraliste à l’hopital de Fann :
+Alpha, agriculteur vivant à Bambey :
 
 Observation 1 : Les patients tombent le plus souvent malade durant l'hivernage surtout dans les zones reculées
 Observation 2 : Les postes de santé à proximité manquent d'effectifs ou d'équipements nécessaires aux premiers soins 
