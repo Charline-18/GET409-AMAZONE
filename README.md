@@ -109,5 +109,5 @@ pour des projets d'innovation sociale en Afrique.
 - Ce qu'il/elle a fait : Il est parti chercher une charette chez son voisin
 - Emotion principale detectee : Frustration
 
-## TACHE
+# TACHE
 Genere la Carte d'Empathie complete.
