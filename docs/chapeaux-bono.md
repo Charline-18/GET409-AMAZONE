@@ -41,7 +41,7 @@
 ## 💚 Chapeau Vert — Créativité & Idées
 
 * Système de diagnostic vocal par appel téléphonique simple (sans internet).
-* Réseau de “relais santé” villageois équipés de kits de base connectés.
+* Aide locale pour contacter un service de santé via une personne du village 
 * Application légère fonctionnant en mode offline avec envoi différé des données.
 
 ---
