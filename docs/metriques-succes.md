@@ -46,5 +46,7 @@ Action corrective : Simplifier le processus de collecte des informations et réd
 À la démo S6, nous présenterons ces 3 chiffres :
 
 Métrique Nord — % de patients orientés en moins de 15 minutes (valeur réelle vs cible de 80 %)
+
 Métrique P1 — nombre d'utilisateurs ayant testé MediLink (valeur réelle vs cible de 50)
+
 Alerte A1 — confiance des utilisateurs (alerte déclenchée ou non selon le seuil de 60 %)
