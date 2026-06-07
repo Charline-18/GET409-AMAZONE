@@ -19,7 +19,6 @@
 * La peur que l'état du malade s'aggrave avant d'arriver à l'hôpital.
 * L'inquiétude de ne pas disposer de suffisamment d'argent pour le transport.
 * L'envie d'offrir de meilleures conditions de vie et de santé à sa famille.
-* Chercher de l’aide auprès d’une personne du village en cas d’urgence
 
 ---
 
