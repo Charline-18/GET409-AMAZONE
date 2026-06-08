@@ -6,8 +6,8 @@ Alpha · 42 ans · Agriculteur · Bakakak, Bambey, Sénégal · Téléphone Andr
 ### Contraintes Non Négociables
 ### Contrainte 1
 
-Critère : Le MVP DOIT fonctionner avec une connexion internet instable ou intermittente, sans bloquer totalement l’usage du service.
-Origine : Chapeau Blanc
+#### Critère : Le MVP DOIT fonctionner avec une connexion internet instable ou intermittente, sans bloquer totalement l’usage du service.
+#### Origine : Chapeau Blanc
 Élimine : Les fonctionnalités nécessitant une connexion continue (visioconférence stable, synchronisation en temps réel obligatoire)
 
 ### Contrainte 2
