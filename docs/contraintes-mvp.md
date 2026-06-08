@@ -23,7 +23,9 @@ Alpha · 42 ans · Agriculteur · Bakakak, Bambey, Sénégal · Téléphone Andr
 ### Contrainte 3
 
  Critère : Le MVP DOIT intégrer une étape d’orientation médicale (triage) et NE DOIT PAS remplacer un diagnostic médical complet.
+ 
  Origine : Chapeau Noir
+ 
  Élimine : Les fonctionnalités de diagnostic automatique définitif ou d’IA médicale autonome sans validation humaine
 
 ### Contrainte 4
