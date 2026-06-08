@@ -104,6 +104,8 @@
 ## Sprint S3
 
 **Semaine 1 :** US-01, US-02, US-03 (MVP core triage + accessibilité + low connectivity)
+
 **Semaine 2 :** US-04, US-05 (orientation médicale + expérience utilisateur complète)
+
 **Démo S6 :** US-01 + US-02 + US-03 (preuve du triage fonctionnel en contexte rural + faible réseau)
 
