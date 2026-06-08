@@ -36,9 +36,13 @@ Origine : Chapeau Blanc
 
 ### Fonctionnalités Éliminées
 Diagnostic médical automatique complet → éliminé car risque clinique élevé et absence d’examen physique
+
 Application vidéo-consultation en temps réel → éliminée à cause de la connectivité instable en zone rurale
+
 Interface riche type “hôpital digital complet” → éliminée car trop complexe pour les usages terrain et urgence
+
 Chat médical libre sans structure → éliminé car augmente fortement le risque de mauvaise interprétation
+
 Système dépendant uniquement d’Internet haut débit → éliminé car incompatible avec les zones comme Bakakak
 
 ### Critère de Validation Final
