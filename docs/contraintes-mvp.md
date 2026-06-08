@@ -35,6 +35,7 @@ Alpha · 42 ans · Agriculteur · Bakakak, Bambey, Sénégal · Téléphone Andr
 #### Élimine : Les parcours utilisateurs complexes nécessitant apprentissage, navigation multi-écrans ou lecture longue
 
 ### Fonctionnalités Éliminées
+
 Diagnostic médical automatique complet → éliminé car risque clinique élevé et absence d’examen physique
 
 Application vidéo-consultation en temps réel → éliminée à cause de la connectivité instable en zone rurale
